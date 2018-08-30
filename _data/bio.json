@@ -2,7 +2,7 @@
   "basics": {
     "name": "Tyler Asato",
     "label": "Student",
-    "picture": "https://tylerz1443.github.io/images/molly.png",
+    "picture": "",
     "email": "tylerz@hawaii.edu",
     "phone": "808-351-9859",
     "website": "https://tylerz1443.github.io",
@@ -22,18 +22,18 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "",
+        "url": ""
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": ""
       }
     ]
   },
