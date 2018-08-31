@@ -29,19 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "game design",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "web development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "animation",
       "keywords": [
       ]
     }
@@ -53,19 +51,7 @@
       "keywords": [
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "HTML",
       ]
     },
     {
@@ -74,7 +60,9 @@
       "keywords": [
         "Photoshop",
         "Illistrator",
-        "Flash"
+        "Flash",
+        "Premier",
+        "Acrobat"
       ]
     }
   ],
