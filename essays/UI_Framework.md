@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: My first thoughts on UI framework
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
