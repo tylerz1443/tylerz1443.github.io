@@ -5,7 +5,7 @@ image:
 title: Eagle Scout Service Project
 permalink: projects/eagleProject
 # All dates must be YYYY-MM-DD format!
-date: 2009-05-24
+date: 2018-09-24
 labels:
   - Leadership
 summary: My eagle scout service project, makeing a compost bin. 
