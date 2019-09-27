@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: What got me started
+title: Coding Standard
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-26
 labels:
