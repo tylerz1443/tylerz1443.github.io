@@ -52,6 +52,11 @@
         "Java",
         "Javascript",
         "HTML",
+        "Meteor",
+        "Semantic UI",
+        "React",
+        "C",
+        "C++",
       ]
     },
     {
@@ -68,21 +73,21 @@
   ],
   "education": [
     {
-      "institution": "Kapioloani Community College, Honolulu, HI",
-      "area": "Librial Arts",
-      "studyType": "A.A.",
-      "startDate": "2009-09-01",
-      "endDate": "2012-06-01",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2020)",
       "studyType": "B.A.",
       "startDate": "2013-09-01",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kapioloani Community College, Honolulu, HI",
+      "area": "Librial Arts",
+      "studyType": "A.A.",
+      "startDate": "2009-09-01",
+      "endDate": "2012-06-01",
       "gpa": "",
       "courses": [
       ]
